@@ -19,6 +19,14 @@ There are 4 differents type of question:
     
   
  Set up the project :
+ 
+ To import a project in Eclipse :
+ 
+   Put all source files into one directory named after your project.  You can keep this directory in your workspace or it can be somewhere else.
+    Start a new project in eclipse and name it using that same project name.
+    Uncheck the "use default location" box and find the directory where your project is unless your project is already in the workspace - then you must not uncheck the "use default location" box
+    Click 'next'.
+
 
 For the application to work correctly, you will need to add the databse driver to the project.
 
