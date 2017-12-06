@@ -31,10 +31,10 @@ There are 4 differents type of question:
 For the application to work correctly, you will need to add the databse driver to the project.
 
 In Eclipse, Package Explorer: right click on your project 
-> Properties 
-> Java Build Path 
-> Libraries tab
-> Add external JARs
+-> Properties 
+-> Java Build Path 
+-> Libraries tab
+-> Add external JARs
 
 Then choose the "mysql-connector-java-5.1.44-bin.jar" file that should be in the zip that you dowloaded.
 
